@@ -1,5 +1,8 @@
-.header{
+.textcontent{
     background-color: gray;
     color: white;
     display: flex;
+    height:100px;
+    align-items: center;  
+    justify-content: center;
 }
